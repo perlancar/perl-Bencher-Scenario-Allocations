@@ -1,4 +1,4 @@
-package Bencher::Scenario::ComparisonOps;
+package Bencher::Scenario::Allocations;
 
 # DATE
 # VERSION
