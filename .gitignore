@@ -2,3 +2,4 @@ Bencher-Scenario-Allocations-*
 .build
 *~
 nytprof*
+.DS_Store
